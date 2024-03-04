@@ -1,6 +1,6 @@
 # INTRODUÇÃO, INSTALAÇÃO E CONFIGURAÇÃO
 ## Introdução ao Django:
-Django é conhecido por seguir o princípio "batteries-included", o que significa que ele fornece uma série de funcionalidades prontas para uso, como autenticação de usuário, sistema de administração, ORM (Object-Relational Mapping), e muito mais. Ele segue o padrão de projeto Model-View-Controller (MVC) e é projetado para promover um código limpo, reutilizável e organizado.
+Django é conhecido por seguir o princípio "batteries-included", o que significa que ele fornece uma série de funcionalidades prontas para uso, como autenticação de usuário, sistema de administração, ORM (Object-Relational Mapping), e muito mais. Ele segue o padrão de projeto Model-View-template (MVT) e é projetado para promover um código limpo, reutilizável e organizado.
 
 ## Instalação do Django:
 Para começar a usar o Django, siga estas etapas para instalar o framework:
