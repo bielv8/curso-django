@@ -3,7 +3,7 @@
 # CURSO DE DJANGO
 👨‍⚖️DJANGO É UM FRAMEWORK DE DESENVOLVIMENTO WEB EM PYTHON QUE FACILITA A CRIAÇÃO DE APLICATIVOS WEB DE ALTA QUALIDADE.
 
-<img src="[FOTO.png](https://i.pinimg.com/736x/9d/a9/39/9da9399617804fd5a4a8bd1c755762d3.jpg)" align="center" width="400"> <br>
+<img src="https://i.pinimg.com/736x/9d/a9/39/9da9399617804fd5a4a8bd1c755762d3.jpg)](https://miro.medium.com/v2/resize:fit:1015/0*77l0NCRQODnTG-OX.jpg" align="center" width="400"> <br>
 
 ## CONCEITO:
 Django é um framework de desenvolvimento web em Python que facilita a criação de aplicativos web robustos e escaláveis. Foi desenvolvido para permitir que os desenvolvedores construam rapidamente sites e aplicativos web, seguindo o princípio do "Don't Repeat Yourself" (DRY) e o conceito de "batteries-included", o que significa que muitas funcionalidades comuns já estão incluídas no framework.
